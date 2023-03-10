@@ -6,4 +6,8 @@
     Returns:
         list: return answer
 */
-void main() {}
+void main() {
+  int i = 0;
+  List<int> x=[];
+  print([]);
+}
