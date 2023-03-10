@@ -6,4 +6,10 @@
     Returns:
         list: return answer
 */
-void main() {}
+List func(List list1) {
+  return [list1[0]];
+}
+
+void main() {
+  print(func([9, 3, 5, 6, 2, 1, 0, 4]));
+}
