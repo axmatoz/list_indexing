@@ -7,8 +7,8 @@
         list: return answer
 */
 List func() {
-  List ls = [];
-  return  ls;
+  List list1 = [];
+  return  list1;
 }
 
 void main() {
