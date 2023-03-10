@@ -6,8 +6,11 @@
     Returns:
         list: return answer
 */
+List func() {
+  List ls = [];
+  return  ls;
+}
+
 void main() {
-  int i = 0;
-  List<int> x=[];
-  print([]);
+  print(func());
 }
