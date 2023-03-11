@@ -6,4 +6,13 @@
     Returns:
         list: return answer
 */
+List func(List list_num) {
+  List a;
+  if (list_num.first < list_num.last) {
+    a = [list_num.last];
+  } else {
+    a = [list_num.first];
+  }
+  return a;
+}
 void main() {}
