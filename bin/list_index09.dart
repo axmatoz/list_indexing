@@ -26,5 +26,9 @@ bool func(List list1) {
 }
 
 void main() {
- print(func([5, 5, 5, 5, 10]));
+  print(func([5, 5, 5, 5, 10]));
 }
+
+
+ 
+
